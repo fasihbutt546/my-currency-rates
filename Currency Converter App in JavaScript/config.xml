@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<widget xmlns="https://www.w3.org/ns/widgets" version="1.0.0" id="com.MarkInc.MyCurrencyRates" android-versionCode="1">
+
+<name>MyCurrencyRates</name>
+
+<description>2 Button MyCurrencyRates</description>
+
+<author>MarkInc</author>
+
+<preference value="portrait" name="orientation"/>
+
+</widget>
